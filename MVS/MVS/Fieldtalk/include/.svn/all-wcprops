@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/Alice/!svn/ver/4/MVS/Fieldtalk/include
+END
+MbusMasterCexports.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Alice/!svn/ver/4/MVS/Fieldtalk/include/MbusMasterCexports.h
+END
+MbusMasterFunctions.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Alice/!svn/ver/4/MVS/Fieldtalk/include/MbusMasterFunctions.hpp
+END
+MbusTcpMasterProtocol.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Alice/!svn/ver/4/MVS/Fieldtalk/include/MbusTcpMasterProtocol.hpp
+END
+hmplatf.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Alice/!svn/ver/4/MVS/Fieldtalk/include/hmplatf.h
+END
+MbusAsciiMasterProtocol.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Alice/!svn/ver/4/MVS/Fieldtalk/include/MbusAsciiMasterProtocol.hpp
+END
+MbusRtuMasterProtocol.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Alice/!svn/ver/4/MVS/Fieldtalk/include/MbusRtuMasterProtocol.hpp
+END
+MbusRtuOverTcpMasterProtocol.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Alice/!svn/ver/4/MVS/Fieldtalk/include/MbusRtuOverTcpMasterProtocol.hpp
+END
+MbusSerialMasterProtocol.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Alice/!svn/ver/4/MVS/Fieldtalk/include/MbusSerialMasterProtocol.hpp
+END
+hmtcpip.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Alice/!svn/ver/4/MVS/Fieldtalk/include/hmtcpip.h
+END
+BusProtocolErrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Alice/!svn/ver/4/MVS/Fieldtalk/include/BusProtocolErrors.h
+END
